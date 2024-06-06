@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "560009761648",
+    "firebase_url": "https://mexpense-15123-default-rtdb.firebaseio.com",
+    "project_id": "mexpense-15123",
+    "storage_bucket": "mexpense-15123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560009761648:android:58a7ed0e06f95ec0c1b5b5",
+        "android_client_info": {
+          "package_name": "com.app.bookstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31hnCnMEQPw_IDoT3cMofRN87PT4rrgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560009761648:android:5c8f419632be33f3c1b5b5",
+        "android_client_info": {
+          "package_name": "com.anhnh.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31hnCnMEQPw_IDoT3cMofRN87PT4rrgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560009761648:android:4521183407d2533fc1b5b5",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31hnCnMEQPw_IDoT3cMofRN87PT4rrgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560009761648-apomtvqr5jdbku2ovcp9kaaf3mlilbfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
